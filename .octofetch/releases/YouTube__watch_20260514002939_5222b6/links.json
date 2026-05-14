@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4301",
+  "folder": "YouTube__watch_20260514002939_5222b6",
+  "base_name": "The_FULL_Story_Of_Classroom_of_the_Elite_(so_far)_-_(EVERYTHING_Explai_9brWL7zaRYc_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads01/releases/tag/co-releases-v1-4301",
+  "files": [
+    {
+      "name": "The_FULL_Story_Of_Classroom_of_the_Elite_.so_far._-_.EVERYTHING_Explai_9brWL7zaRYc_480p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads01/releases/download/co-releases-v1-4301/The_FULL_Story_Of_Classroom_of_the_Elite_.so_far._-_.EVERYTHING_Explai_9brWL7zaRYc_480p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads01/releases/assets/419740225",
+      "id": 419740225,
+      "size": 142257166,
+      "download_count": 0
+    }
+  ]
+}
